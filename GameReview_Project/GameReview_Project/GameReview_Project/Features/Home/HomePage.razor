@@ -1,0 +1,39 @@
+﻿@page "/"
+@inject HttpClient Http
+
+<PageTitle>Game Review</PageTitle>
+
+@if (_game == null)
+{
+    <p>Loading games...</p>
+}
+else
+{
+    <TrailDetails Trail="_selectedTrail" />
+    <div class="grid">
+        @foreach (var trail in _trails)
+        {
+            <TrailCard Trail="trail" OnSelected="HandleTrailSelected" />
+        }
+    </div>
+}
+
+@code {
+    private IEnumerable<Trail>? _trails;
+    private Trail? _selectedTrail;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _game = await Http.GetFromJsonAsync<IEnumerable<Game>>("games/game-data.json");
+        }
+        catch (HttpRequestException ex)
+        {
+            Console.WriteLine($"There was a problem loading trail data: {ex.Message}");
+        }
+    }
+
+    private void HandleTrailSelected(Game game)
+        => _selectedTrail = game;
+}

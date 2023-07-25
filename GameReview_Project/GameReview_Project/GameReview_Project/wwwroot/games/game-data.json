@@ -1,0 +1,133 @@
+{
+"game":[
+   {
+    "id": 1,
+    "image": "",
+    "name": "Apex Legend",
+    "Rating": "rated T (13+) ",
+    "Platforms": " PS 4/5 , Nitendo Switch , X-Box , Windows , Andriod , IOS ",
+    "Description":"Apex Legends is a free-to-play battle royale-hero shooter game developed by Respawn Entertainment and published by Electronic Arts.",
+    "Review": "Apex Legends' mix of exciting characters, excellent gunplay, and unmatched FPS movement keep it a consistently fresh thrill."
+
+   } ,
+
+   {
+    "id": 2,
+    "image": "",
+    "name": "Counter Strike:Global Offensive",
+    "Rating": "rated R ",
+    "Platforms": " Windows , MacOs , Linux , PS 3 , X-Box ",
+    "Description":"Counter-Strike: Global Offensive is a 2012 multiplayer tactical first-person shooter developed by Valve and Hidden Path Entertainment.",
+    "Review": "CSGO is an all-around well-designed, entertaining shooter that provides an unique and satisfying gameplay experience."
+
+
+   } , 
+
+   {
+    "id": 3,
+    "image": "",
+    "name": "Call of Duty:Modern Warfare 2",
+    "Rating": "rated M ",
+    "Platforms": " PS 4/5 , X-Box , Windows ",
+    "Description":"Call of Duty: Modern Warfare 2 is a 2009 first-person shooter game developed by Infinity Ward and published by Activision.",
+    "Review": " Call of Duty: Modern Warfare 2 is a must-play for any fan of action-packed shooters. With its intense single-player campaign, addictive multiplayer, and cooperative challenges, it's a game that continues to be cherished by gamers around the world"
+  
+   } ,
+   
+   {
+    "id": 4,
+    "image": "",
+    "name": "Street Fighter 6",
+    "Rating": "rated T ",
+    "Platforms": " PS 4/5 , X-Box , Windows , Arcade game",
+    "Description":"Street Fighter 6 is a 2023 fighting game developed and published by Capcom",
+    "Review": "Street Fighter 6 offers the most flexible, versatile, and expressive combat seen in the series to date. With its fantastic suite of game modes and diverse character roster, Street Fighter 6 has something to offer every type of fighting game fan."
+   
+   } ,
+
+   {
+    "id": 5,
+    "image": "  ",
+    "name": "Dota 2",
+    "Rating": "rated M ",
+    "Platforms": " Windows , MacOs , Linux ",
+    "Description":"Dota 2 is a 2013 multiplayer online battle arena video game developed by Valve",
+    "Review": "Dota 2 deserves its intimidating reputation, and it probably won't suit you if you're looking to play casually. There's a huge time investment before you can even enjoy a game, let alone feel competent at it. But once you start to learn its secrets, there's a wild and exciting variety of play here that's unmatched, even by its peers."
+   
+   } ,
+
+   {
+    "id": 6,
+    "image": "",
+    "name": "God of War:Ragnarok",
+    "Rating": "rated M ",
+    "Platforms": " PS 4/5 ",
+    "Description":"God of War Ragnarök is an action-adventure game developed by Santa Monica Studio and published by Sony Interactive Entertainment.",
+    "Review": "God of War Ragnarok melds action and adventure together to create a new, unforgettable Norse saga. Impeccable writing, pitch-perfect performances, knockout action.SO,it's a complete work of art from top to bottom."
+
+   } ,
+
+   {
+    "id": 7,
+    "image": "",
+    "name": "Elden Ring",
+    "Rating": "rated M ",
+    "Platforms": " PS 4/5 , X-Box , Windows ",
+    "Description":"Elden Ring is a 2022 action role-playing game developed by FromSoftware.",
+    "Review": "Elden Ring is a massive iteration on what FromSoftware began with the Souls series, bringing its relentlessly challenging combat to an incredible open world that gives us the freedom to choose our own path."
+
+   } ,
+
+   {
+    "id": 8,
+    "image": "",
+    "name": "MineCraft",
+    "Rating": "rated E (10+) ",
+    "Platforms": " PS 3/4/5 , Windows , Andriod , IOS , Nitendo Switch , X-box",
+    "Description":"Minecraft is a 3D sandbox game developed by Mojang Studios where players interact with a fully modifiable three-dimensional environment made of blocks and entities.",    
+    "Review": "Minecraft is an incredibly fun and addictive game that is suitable for players of all ages. It's a game that encourages creativity, imagination, and exploration. If you're looking for a game that you can lose yourself in for hours on end, then Minecraft is the perfect choice."
+
+   } ,
+
+   {
+    "id": 9,
+    "image": "",
+    "name": "Hogwarts Legacy",
+    "Rating": "rated T (13+) ",
+    "Platforms": " PS 4/5 , Nitendo Switch , X-Box , Windows ",
+    "Description":"Hogwarts Legacy is a 2023 action role-playing game developed by Avalanche Software and published by Warner Bros. Games under its Portkey Games label. The game, part of the Wizarding World franchise, takes place in the late 1800s, a century prior to the events chronicled in the Harry Potter novels",
+    "Review": "Its open-world adventure captures all the excitement and wonder of the Wizarding World with its memorable new characters, challenging and nuanced combat, and a wonderfully executed Hogwarts student fantasy that kept me glued to my controller for dozens of hours."
+   } ,
+
+   {
+    "id": 10,
+    "image": "",
+    "name": "Red Dead Redemption 2",
+    "Rating": "rated M ",
+    "Platforms": " PS 4 , X-Box , Windows ",
+    "Description":"Red Dead Redemption 2 is a 2018 action-adventure game developed and published by Rockstar Games.",
+    "Review": "Red Dead Redemption 2 stands shoulder-to-shoulder with Grand Theft Auto V as one of the greatest games of the modern age. It's a gorgeous depiction of an ugly period that's patient, polished, and a huge amount of fun to play, and it's combined with Rockstar's best storytelling to date."
+   } ,
+
+   {
+    "id": 11,
+    "image": "",
+    "name": "Valorant",
+    "Rating": "rated M ",
+    "Platforms": " Windows ",
+    "Description":"Valorant is a free-to-play first-person tactical hero shooter developed and published by Riot Games.",
+    "Review": "It's true that Valorant is Riot's best crack at Counter-Strike, but the ways it remixes Valve's blueprint are what make it excellent. Anonymous gangs of counter-terrorists are replaced by a cast of vibrant agents with talents that match their personalities."
+   } ,
+
+   {
+    "id": 12,
+    "image": "",
+    "name": "Moster Hunter:Rise",
+    "Rating": "rated T ",
+    "Platforms": " PS 4/5 , Nitendo Switch , X-Box , Windows ",
+    "Description":"Monster Hunter Rise is an action role-playing video game developed and published by Capcom for the Nintendo Switch.",
+    "Review": "Monster Hunter Rise mixes classic Monster Hunter ideas with some of World's best improvements and a whole bunch of clever new mechanics of its own."
+   } 
+]
+
+}   
